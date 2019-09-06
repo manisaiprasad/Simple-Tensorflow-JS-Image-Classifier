@@ -3,7 +3,7 @@
 
 ### Train & Predict
 
-First, connect to the site and then grant WebCam privileges. 
+First, connect to the site https://manisaiprasad.github.io/Simple-Tensorflow-JS-Image-Classifier/ and then grant WebCam privileges. 
 
 Take a object or something that corresponds to each class of four (A to D) and press the Train X button.
 
